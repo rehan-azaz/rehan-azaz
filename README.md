@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rehan Azaz</h1>
+![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Rehan%20Azaz20🤠&text2=💖%20A%20Passionate%20Coder,Developer%20and%20Debugger!&width=900&height=400)
+
 <h3 align="center">A passionate full stack developer from Pakistan </h3>
 
 <p align="right">
