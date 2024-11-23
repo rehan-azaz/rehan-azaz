@@ -20,8 +20,8 @@ jobs:
         with:
           github_user_name: rehan-azaz
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          theme: light
           outputs: dist/github-contribution-grid-snake-light.svg
+          args: '--theme light'
 
       # Step 3: Generate Dark Snake Game from GitHub Contribution Grid
       - name: Generate Dark Snake Game
@@ -29,8 +29,8 @@ jobs:
         with:
           github_user_name: rehan-azaz
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          theme: dark
           outputs: dist/github-contribution-grid-snake-dark.svg
+          args: '--theme dark'
 
       # Step 4: Ensure Build Directory Exists
       - name: Ensure Build Directory Exists
