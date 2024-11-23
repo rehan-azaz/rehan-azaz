@@ -24,7 +24,7 @@ jobs:
 
       # Step 3: Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@latest
+        uses: crazy-max/ghaction-github-pages@v3.2.0
         with:
           target_branch: main
           build_dir: dist
