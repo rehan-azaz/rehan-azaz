@@ -1,4 +1,4 @@
-![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Rehan%20Azaz20🤠&text2=💖%20A%20Passionate%20Coder,Developer%20and%20Debugger!&width=900&height=400)
+![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Rehan%20Azaz🤠&text2=💖%20A%20Passionate%20Coder,Developer%20and%20Debugger!&width=900&height=400)
 
 <h3 align="center">A passionate full stack developer from Pakistan </h3>
 
@@ -96,7 +96,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30"/>
     </a>
      <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-        <img src="https://nestjs.com/logo-small-gradient.76616405.svg" alt="nestjs" width="30" height="30"/>
+        <img src="https://nestjs.com/logo-small-gradient.d792062c.svg" alt="nestjs" width="30" height="30"/>
     </a>
      <a href="https://graphql.org" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="30" height="30"/>
