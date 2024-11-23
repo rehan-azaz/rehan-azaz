@@ -10,22 +10,37 @@ jobs:
     name: Generate Snake Animation
     runs-on: ubuntu-latest
     steps:
+      # Step 1: Checkout the repository
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Generate Snake Game from GitHub Contribution Grid
+      # Step 2: Generate Light Snake Game from GitHub Contribution Grid
+      - name: Generate Light Snake Game
         uses: Platane/snk@v3.2.0
         with:
           github_user_name: rehan-azaz
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          outputs: dist/github-contribution-grid-snake.svg
+          theme: light
+          outputs: dist/github-contribution-grid-snake-light.svg
 
+      # Step 3: Generate Dark Snake Game from GitHub Contribution Grid
+      - name: Generate Dark Snake Game
+        uses: Platane/snk@v3.2.0
+        with:
+          github_user_name: rehan-azaz
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          theme: dark
+          outputs: dist/github-contribution-grid-snake-dark.svg
+
+      # Step 4: Ensure Build Directory Exists
       - name: Ensure Build Directory Exists
         run: mkdir -p dist
 
+      # Step 5: List Generated Files
       - name: List Generated Files
         run: ls -R dist
 
+      # Step 6: Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
