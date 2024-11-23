@@ -20,8 +20,7 @@ jobs:
         with:
           github_user_name: rehan-azaz
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          outputs: dist/github-contribution-grid-snake-light.svg
-          args: '--theme light'
+          outputs: dist/github-contribution-grid-snake.svg
 
       # Step 3: Generate Dark Snake Game from GitHub Contribution Grid
       - name: Generate Dark Snake Game
