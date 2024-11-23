@@ -190,8 +190,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-![Snake animation](https://rehan-azaz.github.io/rehan-azaz/dist/github-contribution-grid-snake.svg
-)
+![Snake animation](https://rehan-azaz.github.io/rehan-azaz/github-contribution-grid-snake.svg)
 
 
 
