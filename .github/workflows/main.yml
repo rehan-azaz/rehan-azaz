@@ -2,7 +2,7 @@ name: Generate Commits
 
 on:
   schedule:
-    - cron: "15 21 * * *"  # 2:15 AM PKT
+    - cron: "00 21 * * *"  # 2 AM PKT
   workflow_dispatch:
 
 jobs:
