@@ -7,11 +7,11 @@
 
 ## About Me
 
-- 🔭 I’m currently working as Sr. Software Engineer
+- 🔭 I’m currently working as a Sr. Software Engineer
 - 🌱 I’m currently developing Web & Mobile Applications
-- 👩🏻‍💻 I’m currently working on MERN Stack, React Naive and AWS Cloud
+- 🧑🏻‍💻 I’m currently working on MERN Stack, React Native and AWS Cloud
 - 🤔 My interest lies in Full Stack Development
-- 🎮 My hobbies are playing reading and traveling
+- 🎮 My hobbies are playing games, reading and traveling
 
 ## Connect me
 <a href="https://api.whatsapp.com/send?phone=923224873016"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/rehan-azaz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ## Languages and Tools
-<p style="display: inline-block;" align="center">
+<p align="center">
   <kbd>
     <kbd>Programming Languages</kbd>
     <br>
@@ -33,8 +33,8 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
       </a>
-   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c++" width="30" height="30"/>
+   <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="30" height="30"/>
     </a>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/>
